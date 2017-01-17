@@ -11,7 +11,7 @@ Create a simple Image Gallery PHP script. The script should:
 - Display image files from a specific directory.
 - Display captions for each image.
 
-##Delivirables:
+##Deliverables:
 - The class.imageGallery creates an object that represents an Image Gallery.
 - The object has an array of all image names and corresponding captions.
 - The captions are taken from a file in the same directory as the images. The captions are tab-delimited.
