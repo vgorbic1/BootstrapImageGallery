@@ -1,0 +1,15 @@
+/* --- Custom CSS --- */
+.imageGalleryThumb {
+	max-width: 150px;
+	max-height: 150px;
+}
+
+button.imageGallery {
+	border: none;
+	background-color: white;
+	padding: 1em;
+}
+
+.modal-body img {
+	width: 100%;
+}
